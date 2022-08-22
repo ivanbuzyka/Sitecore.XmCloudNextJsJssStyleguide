@@ -1,0 +1,29 @@
+﻿---
+ID: "1832f13d-3e55-4c2e-9c71-77623d0e6c4f"
+Parent: "33cbf0fb-f5ce-5c8d-91f6-0b0f07a64b7d"
+Template: "345e6397-9bd0-4d67-857b-4a0b078f9b3a"
+Path: /sitecore/content/XmCloudPreview/home/MyComponentSource1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220822T123913Z
+    - ID: "7888c959-496b-479b-a46c-63052678e504"
+      Hint: body
+      Value: Body for MyComponentSource1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1356687-2617-44de-9994-a18093d0c2dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ivan.buzyka@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220822T123913Z
+    - ID: "e373e9d8-ce66-4102-9b03-f9deafcc629c"
+      Hint: heading
+      Value: MyComponentSource1

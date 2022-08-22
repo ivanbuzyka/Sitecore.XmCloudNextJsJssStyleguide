@@ -7,19 +7,10 @@ type MyComponentProps = {
     };
 }
 
-const TextStyles = {
-    color: '#FA8072',
-    fontWeight: 'bold'
-}
-
-const TextStyles2 = {
-    color: '#CD5C5C'
-}
-
 const MyComponent = (props: MyComponentProps): JSX.Element => (
     <div>
-        <span style={TextStyles}><Text field={props.fields.heading} /></span>
-        <RichText style={TextStyles2} field={props.fields.body} />
+        <span><Text field={props.fields.heading} /></span>
+        <RichText field={props.fields.body} />
     </div>
 );
 

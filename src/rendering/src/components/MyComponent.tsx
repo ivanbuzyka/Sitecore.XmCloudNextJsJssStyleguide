@@ -5,7 +5,7 @@ type MyComponentProps = {
         heading: Field<string>;
         body: Field<string>;
     };
-}
+};
 
 const MyComponent = (props: MyComponentProps): JSX.Element => (
     <div>
